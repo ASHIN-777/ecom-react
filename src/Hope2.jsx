@@ -1,4 +1,4 @@
-import image from '../public/images/pot Flower2.avif'
+import image from '../public/images/pot flower2.avif'
 import image2 from '../public/images/potflower3.avif'
 import image3 from '../public/images/pot flower.avif'
 import image4 from'../public/images/pot flower4.avif'
